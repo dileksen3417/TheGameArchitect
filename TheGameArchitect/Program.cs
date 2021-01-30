@@ -57,8 +57,8 @@ namespace TheGameArchitect
            
             Console.WriteLine("\n\nKampanyalı satış....");
             saleManager.Sell(player, sale, game, campaign);
-        
 
+            Console.WriteLine("\n\nSistemden çıkış yapıldı.");
 
         }
     }
